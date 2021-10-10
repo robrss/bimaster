@@ -1,4 +1,4 @@
-# Previsão de série temporal de Reservas Provadas utilizando LSTM e Prophet
+# Previsão de série temporal de Reservas Provadas de Óleo e Gás
 
 #### Aluno: [Robson Silva](https://github.com/link_do_github)
 #### Orientador: [Leonardo Mendonça](https://github.com/link_do_github).
